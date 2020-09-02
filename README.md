@@ -1,2 +1,2 @@
 # TXT-Database
-You can use txt file as database on PHP
+You can use a txt file as a database on PHP
